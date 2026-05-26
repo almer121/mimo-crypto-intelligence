@@ -1,0 +1,29 @@
+[project]
+name = "mimo-crypto-intelligence"
+version = "0.1.0"
+description = "AI-powered crypto trading intelligence platform"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+
+dependencies = [
+    "httpx>=0.25.0",
+    "websocket-client>=1.6.0",
+    "base58>=2.1.1",
+    "solana>=0.30.0",
+    "solders>=0.18.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "ruff>=0.1.0",
+]
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
