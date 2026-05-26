@@ -8,7 +8,7 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![MiMo Powered](https://img.shields.io/badge/MiMo-100T-orange.svg?style=for-the-badge)](https://github.com/XiaomiMiMo/MiMo)
+[![MiMo Powered](https://img.shields.io/badge/MiMo-Powered-orange.svg?style=for-the-badge)](https://github.com/XiaomiMiMo/MiMo)
 [![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg?style=for-the-badge)](tests/)
 
 ---
@@ -297,7 +297,7 @@ Reports are designed for **Telegram** and **Discord** with clean, scannable form
 ## 🛠️ Tech Stack
 
 - **Language**: Python 3.10+
-- **AI Engine**: Xiaomi MiMo 100T
+- **AI Engine**: Xiaomi MiMo
 - **Blockchain**: Solana (via solders/solana-py)
 - **Data Sources**: 
   - Pump.fun WebSocket API
@@ -349,7 +349,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 🙏 Acknowledgments
 
-- **Xiaomi MiMo Team** for the powerful 100T model
+- **Xiaomi MiMo Team** for the powerful model
 - **Pump.fun** for the memecoin ecosystem
 - **DexScreener** for real-time market data
 - **Jupiter Aggregator** for Solana liquidity
